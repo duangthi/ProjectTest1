@@ -1,5 +1,5 @@
 ---
-title: my blog
+title: My Journey
 ---
 
-Hello this is my blog.
+Hello this is my Journey.
