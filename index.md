@@ -2,4 +2,4 @@
 title: My Journey
 ---
 
-Hello this is my Journey.
+Hello this is My Journey.
