@@ -1,7 +1,8 @@
 ---
-title: Game
+title: Destinations
 ---
 
-My games:
-1. mario
-2. Pokemon
+My journey:
+1. Beach
+2. Mountain
+3. Island
